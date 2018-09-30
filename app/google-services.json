@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "864764274435",
+    "firebase_url": "https://igrpay-af3fb.firebaseio.com",
+    "project_id": "igrpay-af3fb",
+    "storage_bucket": "igrpay-af3fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864764274435:android:6fb8eceb6640be54",
+        "android_client_info": {
+          "package_name": "com.example.david__paymaster.igrpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864764274435-cpvgop7kjn1fsbgq4qju5imvk6vhsnu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtZ9lmYEYUcOfHJYpSpgqgfCBrw4XMY5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864764274435:android:de5d0c2f5b197f78",
+        "android_client_info": {
+          "package_name": "david__paymaster.example.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864764274435-cpvgop7kjn1fsbgq4qju5imvk6vhsnu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtZ9lmYEYUcOfHJYpSpgqgfCBrw4XMY5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
