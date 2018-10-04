@@ -13,4 +13,44 @@
     <string name="enter_pass">Enter Your Password</string>
     <string name="password">Password</string>
     <string name="forgot_password">Forgot Password</string>
+<<<<<<< HEAD
+=======
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hint_booklet_name">Booklet Number</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_middle_name">Middle Name</string>
+    <string name="hint_date_of_birth">Date Of Birth</string>
+    <string name="hint_gender">Gender</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_mobile_number">Mobile Number</string>
+    <string name="hint_occupation">Occupation</string>
+    <string name="hint_nin">National Identification Number</string>
+    <string name="hint_union">Union</string>
+    <string name="hint_union_number">Union Number</string>
+    <string name="hint_photo_upload">Photo &amp; Signature</string>
+
+    <string name="register_tax_payer">Register Tax Payer</string>
+
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="union">
+        <item>All Market Men/Women Associations</item>
+        <item>National Automobile Technicians Association</item>
+        <item>All Farmers Association of Nigeria</item>
+        <item>Nigeria Tilers Association</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_biodata">Add BioData</string>
+>>>>>>> Update UI and save to Firebase
 </resources>

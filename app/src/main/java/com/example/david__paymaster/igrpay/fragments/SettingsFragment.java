@@ -1,7 +1,12 @@
 package com.example.david__paymaster.igrpay.fragments;
 
+<<<<<<< HEAD
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+=======
+import android.support.v4.app.Fragment;
+import android.os.Bundle;
+>>>>>>> Update UI and save to Firebase
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,8 +17,11 @@ import com.example.david__paymaster.igrpay.constants.NavigationDrawerConstants;
 
 public class SettingsFragment extends Fragment {
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> Update UI and save to Firebase
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

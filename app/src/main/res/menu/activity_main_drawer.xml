@@ -7,6 +7,7 @@
         <item android:title="Add Tax Information">
             <menu>
                 <item
+<<<<<<< HEAD
                     android:id="@+id/add_tax_payer"
                     android:icon="@drawable/ic_menu_camera"
                     android:title="Add Tax Payer" />
@@ -18,20 +19,61 @@
                     android:id="@+id/pay_tax"
                     android:icon="@drawable/ic_menu_slideshow"
                     android:title="Pay Tax" />
+=======
+                    android:id="@+id/home"
+                    android:icon="@drawable/payer_add"
+                    android:title="Home" />
+                <item
+                    android:id="@+id/add_tax_payer"
+                    android:icon="@drawable/payer_add"
+                    android:title="Register Tax Payer" />
+                <item
+                    android:id="@+id/view_payers"
+                    android:icon="@drawable/payer_view"
+                    android:title="View Payers List" />
+                <item
+                    android:id="@+id/collect_payment"
+                    android:icon="@drawable/payer_view"
+                    android:title="Collect Payment" />
+                <item
+                    android:id="@+id/due_list"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="Due List" />
+                <!--<item-->
+                    <!--android:id="@+id/pay_tax"-->
+                    <!--android:icon="@drawable/ic_menu_slideshow"-->
+                    <!--android:title="Collection History" />-->
+>>>>>>> Update UI and save to Firebase
                 <item
                     android:id="@+id/sync_report"
                     android:icon="@drawable/ic_menu_manage"
                     android:title="Sync Report" />
+<<<<<<< HEAD
+=======
+                <item
+                    android:id="@+id/end_of_day"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="End Of Day" />
+>>>>>>> Update UI and save to Firebase
             </menu>
         </item>
     </group>
 
+<<<<<<< HEAD
     <item android:title="Communicate">
         <menu>
             <item
                 android:id="@+id/nav_share"
                 android:icon="@drawable/ic_menu_share"
                 android:title="Share" />
+=======
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/profile"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Profile" />
+>>>>>>> Update UI and save to Firebase
             <item
                 android:id="@+id/logout"
                 android:icon="@drawable/ic_menu_send"

@@ -1,12 +1,7 @@
 package com.example.david__paymaster.igrpay.fragments;
 
-<<<<<<< HEAD
-import android.os.Bundle;
 import android.support.v4.app.Fragment;
-=======
-import android.app.Fragment;
 import android.os.Bundle;
->>>>>>> Update UI and save to Firebase
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -14,25 +9,23 @@ import android.view.ViewGroup;
 import com.example.david__paymaster.igrpay.R;
 import com.example.david__paymaster.igrpay.constants.NavigationDrawerConstants;
 
+/**
+ * Created by tobiw on 01-Oct-18.
+ */
 
-public class VideosFragment extends Fragment {
+public class SyncReportFragment extends Fragment {
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> Update UI and save to Firebase
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getActivity().setTitle(NavigationDrawerConstants.TAG_VIDEOS);
+        getActivity().setTitle(NavigationDrawerConstants.TAG_SYNC_REPORT);
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_videos, container, false);
+        return inflater.inflate(R.layout.fragment_sync_report, container, false);
     }
 
 }

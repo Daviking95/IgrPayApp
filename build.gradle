@@ -16,6 +16,13 @@ buildscript {
     }
 }
 
+<<<<<<< HEAD
+=======
+ext {
+    googlePlayServicesVersion   = "15.0.0"
+}
+
+>>>>>>> Update UI and save to Firebase
 allprojects {
     repositories {
         google()

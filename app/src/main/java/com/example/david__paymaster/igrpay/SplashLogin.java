@@ -159,6 +159,12 @@ public class SplashLogin extends AppCompatActivity implements View.OnClickListen
         if (v == forgotButton){
             finish();
             startActivity(new Intent(this, MainActivity.class));
+            loginAgent();
+        }
+        if (v == forgotButton){
+//            Toast.makeText()
+//            finish();
+//            startActivity(new Intent(this, MainActivity.class));
         }
     }
 }

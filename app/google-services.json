@@ -15,6 +15,17 @@
       },
       "oauth_client": [
         {
+<<<<<<< HEAD
+=======
+          "client_id": "864764274435-1qd53kgjqr3u70dtcu7dfaej9ah76f06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.david__paymaster.igrpay",
+            "certificate_hash": "4a408f2e1a053adeebe3dd045263f8159707bbc5"
+          }
+        },
+        {
+>>>>>>> Update UI and save to Firebase
           "client_id": "864764274435-cpvgop7kjn1fsbgq4qju5imvk6vhsnu9.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +40,18 @@
           "status": 1
         },
         "appinvite_service": {
+<<<<<<< HEAD
           "status": 1,
           "other_platform_oauth_client": []
+=======
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864764274435-cpvgop7kjn1fsbgq4qju5imvk6vhsnu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+>>>>>>> Update UI and save to Firebase
         },
         "ads_service": {
           "status": 2
