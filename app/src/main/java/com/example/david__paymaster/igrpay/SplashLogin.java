@@ -154,17 +154,20 @@ public class SplashLogin extends AppCompatActivity implements View.OnClickListen
     @Override
     public void onClick(View v) {
         if (v == loginButton) {
+<<<<<<< HEAD
             registerAgent();
         }
         if (v == forgotButton){
             finish();
             startActivity(new Intent(this, MainActivity.class));
+=======
             loginAgent();
         }
         if (v == forgotButton){
 //            Toast.makeText()
 //            finish();
 //            startActivity(new Intent(this, MainActivity.class));
+>>>>>>> Update UI and save to Firebase
         }
     }
 }
