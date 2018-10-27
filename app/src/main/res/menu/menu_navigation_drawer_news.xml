@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/grp_1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_1"
+            android:icon="@drawable/ic_home"
+            android:title="Register Tax Payer" />
+        <item
+            android:id="@+id/nav_3"
+            android:icon="@drawable/ic_schedule"
+            android:title="Collect Tax" />
+        <item
+            android:id="@+id/nav_4"
+            android:icon="@drawable/ic_settings"
+            android:title="View Tax Payers" />
+        <item
+            android:id="@+id/nav_5"
+            android:icon="@drawable/ic_help"
+            android:title="View End Of Day" />
+    </group>
+    <group
+        android:id="@+id/grp_4"
+        android:checkableBehavior="single"
+        android:visible="false">
+        <item
+            android:id="@+id/nav_7"
+            android:icon="@drawable/ic_settings"
+            android:title="Print Receipt" />
+        <item
+            android:id="@+id/nav_8"
+            android:icon="@drawable/ic_help"
+            android:title="End Of Day" />
+        <item
+            android:id="@+id/nav_9"
+            android:icon="@drawable/ic_help"
+            android:title="Sync" />
+        <item
+            android:id="@+id/nav_10"
+            android:icon="@drawable/ic_help"
+            android:title="Message" />
+        <item
+            android:id="@+id/nav_14"
+            android:icon="@drawable/ic_help"
+            android:title="Innstapay" />
+    </group>
+    <group
+        android:id="@+id/grp_5"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_11"
+            android:icon="@drawable/ic_settings"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_12"
+            android:icon="@drawable/ic_help"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_13"
+            android:icon="@drawable/ic_help"
+            android:title="Logout" />
+    </group>
+
+</menu>
